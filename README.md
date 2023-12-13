@@ -1,6 +1,6 @@
 # commitlint
 
-[![Docker Build](https://github.com/cloudpunks/commitlint/workflows/docker/badge.svg)](https://github.com/cloudpunks/commitlint/actions?query=workflow%3Adocker) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://gitlab.com/gitlab-org/release-cli)
+[![Docker Build](https://github.com/cloudpunks/commitlint/workflows/docker/badge.svg)](https://github.com/cloudpunks/commitlint/actions?query=workflow%3Adocker) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/conventional-changelog/commitlint)
 
 All these images are used for various scriptings, it's possible that any of
 these tools are updated randomly.
