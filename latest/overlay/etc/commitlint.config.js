@@ -19,6 +19,9 @@ module.exports = {
                 'style',
                 'test',
                 'deps',
+                'major',
+                'minor',
+                'patch',
             ]
         ]
     }
