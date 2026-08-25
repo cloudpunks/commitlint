@@ -1,4 +1,4 @@
-FROM ghcr.io/cloudpunks/alpine:3.19@sha256:b7fa9c5a5990efcb67547792780480668730c2a72ded5b2bd123effdcad7174d
+FROM ghcr.io/cloudpunks/alpine:3.19@sha256:c14e9b97ad8994e4ddcd05d5110856994c06ac28a35f2bd434e858c1e0bd5b92
 ENTRYPOINT [""]
 
 # renovate: datasource=npm depName=@commitlint/cli
