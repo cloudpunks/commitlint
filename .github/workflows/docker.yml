@@ -7,9 +7,6 @@ name: docker
   push:
     branches:
       - master
-    paths:
-      - latest/*
-      - .github/workflows/docker.yml
   pull_request:
     branches:
       - master
