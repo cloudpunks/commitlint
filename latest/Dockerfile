@@ -2,10 +2,10 @@ FROM ghcr.io/cloudpunks/alpine:3.24@sha256:1ff90666d642910c31f8643e00b9fae907e95
 ENTRYPOINT [""]
 
 # renovate: datasource=npm depName=@commitlint/cli
-ENV COMMITLINT_CLI_VERSION=21.2.3
+ENV COMMITLINT_CLI_VERSION=21.2.4
 
 # renovate: datasource=npm depName=@commitlint/config-conventional
-ENV COMMITLINT_CONFIG_VERSION=21.2.3
+ENV COMMITLINT_CONFIG_VERSION=21.2.4
 
 RUN apk update && \
   apk upgrade && \
